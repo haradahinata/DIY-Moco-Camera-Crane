@@ -1,4 +1,4 @@
-# DIY Electric Camera Crane
+# DIY Moco Camera Crane
 
 ## 概要
 **DIY Electric Camera Crane** は、個人や小規模な制作チームが手頃な価格で高品質な電動カメラクレーンを製作・使用できるようにすることを目的としたプロジェクトです。本プロジェクトでは、オープンソースの設計図やソースコードを提供し、必要な材料や手順を公開しています。
